@@ -82,6 +82,9 @@ Following are some of the technologies I frequently use:
   />
 </div>
 
+## Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenlohuang&count_private=true&show_icons=true&theme=transparent)
+
 ## Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
