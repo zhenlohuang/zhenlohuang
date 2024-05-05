@@ -19,7 +19,7 @@
       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"></a>
       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="42" height="42"></a>
       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"></a>
-      <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42"></a>
+      <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="42" height="42"></a>
       <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42"></a>
     </td>
   </tr>
