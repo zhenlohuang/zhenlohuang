@@ -66,16 +66,24 @@
 </table>
 
 
-## Github Stats
+## ⚡ Github Stats
 
-### ⚡ Zhenlong's Stats
+### Stats & Streak
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zhenlohuang&show_icons=true&locale=en" alt="zhenlohuang" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenlohuang&" alt="zhenlohuang" /></p>
+<p align="center">
+	<a href="https://github.com/zhenlohuang">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zhenlohuang&amp;show_icons=true" alt="zhenlohuang">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhenlohuang" alt="zhenlohuang">
+	</a>
+</p>
 
-### ⚡ Top Languages
+### Top Languages
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenlohuang&show_icons=true&locale=en&layout=compact" alt="zhenlohuang" /></p>
+<p align="center">
+	<a href="https://github.com/zhenlohuang">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenlohuang&amp;langs_count=8&amp;layout=compact" alt="zhenlohuang">
+	</a>
+</p>
 
 ## Contribution
 
