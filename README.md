@@ -5,7 +5,7 @@
 
 ## 🤝 Connect with me
 
-[![Blog](https://img.shields.io/badge/Blog-777BB3?logo=hexo&logoColor=white&style=for-the-badge)](http://yidoo.xyz/)
+[![Blog](https://img.shields.io/badge/Blog-777BB3?logo=hexo&logoColor=white&style=for-the-badge)](http://www.yidoo.xyz/)
 [![email](https://img.shields.io/badge/Email-ED4127?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhenlohuang@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077C5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/zhenlohuang/)
 [![Twitter](https://img.shields.io/badge/Twitter-0077C5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zhenlohuang)
