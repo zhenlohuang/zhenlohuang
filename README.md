@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/59918011/188706237-350b85a4-f2b8-43e1-9ef1-a853a41cc3d9.png)
 
 # Hi 👋, I'm [Zhenlong Huang](https://yidoo.xyz/about/)
-<p>A passionate frontend developer from Shanghai, China</p>
+<p>A passionate developer from Shanghai, China</p>
 
 ## 🤝 Connect with me
 
