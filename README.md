@@ -8,6 +8,13 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 - 微信公众号: 异度部落格 (yidooxyz)
 - 知乎专栏: [核动力蜗牛](https://www.zhihu.com/people/kevinxhuang/posts)
 
+<p align="center">
+	<a href="https://github.com/zhenlohuang">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zhenlohuang&amp;show_icons=true" alt="zhenlohuang">
+	<img width="49.5%" src="https://leetcode-badge-sage.vercel.app/badge/zhenlohuang?bgColor=fff" alt="zhenlohuang">
+	</a>
+</p>
+
 ## 🤝 Connect with me
 
 [![Blog](https://img.shields.io/badge/Blog-777BB3?logo=hexo&logoColor=white&style=for-the-badge)](http://www.yidoo.xyz/)
