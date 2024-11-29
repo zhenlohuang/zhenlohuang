@@ -3,7 +3,7 @@
 # Hi 👋, there
 I'm [Zhenlong Huang](https://yidoo.xyz/about/), working at Cloudwalk now. 
 
-Keep writing and publishing articles about technical writing, self-improvement, investing and etc.) in Chinese:
+Keep writing and publishing articles about technical writing, self-improvement, investing and etc. in Chinese:
 - Blog: [异度部落格](https://yidoo.xyz/)
 - 微信公众号: [异度部落格 (yidooxyz)](https://github.com/zhenlohuang/zhenlohuang/blob/main/qrcode_for_yidooxyz.jpg?raw=true)
 - 知乎专栏: [核动力蜗牛](https://www.zhihu.com/people/kevinxhuang/posts)
