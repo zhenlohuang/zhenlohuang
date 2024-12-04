@@ -10,10 +10,10 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 
 <p align="center">
 	<a href="https://github.com/zhenlohuang">
-	<img width="49.5%" src="https://zhenlohuang-github-readme-stats.vercel.app/api?username=zhenlohuang&amp;show_icons=true" alt="zhenlohuang">
+	<img width="49.5%" height="200px" src="https://zhenlohuang-github-readme-stats.vercel.app/api?username=zhenlohuang&amp;show_icons=true" alt="zhenlohuang">
 	</a>
 	<a href="https://leetcode.com/u/zhenlohuang/">
-	<img width="49.5%" src="https://leetcode-badge-sage.vercel.app/badge/zhenlohuang?bgColor=fff" alt="zhenlohuang">
+	<img width="49.5%" height="200px" src="https://leetcard.jacoblin.cool/zhenlohuang" alt="zhenlohuang">
 	</a>
 </p>
 
