@@ -1,10 +1,10 @@
 ![header](https://user-images.githubusercontent.com/59918011/188706237-350b85a4-f2b8-43e1-9ef1-a853a41cc3d9.png)
 
 # Hi 👋, there
-I'm [Zhenlong Huang](https://yidoo.xyz/about/), working at Cloudwalk now. 
+I'm [Zhenlong Huang](https://www.yidoo.xyz/about/), working at Cloudwalk now. 
 
 Keep writing and publishing articles about technical writing, self-improvement, investing and etc. in Chinese:
-- Blog: [异度部落格](https://yidoo.xyz/)
+- Blog: [异度部落格](https://www.yidoo.xyz/)
 - 微信公众号: [异度部落格 (yidooxyz)](https://github.com/zhenlohuang/zhenlohuang/blob/main/qrcode_for_yidooxyz.jpg?raw=true)
 - 知乎专栏: [核动力蜗牛](https://www.zhihu.com/people/kevinxhuang/posts)
 
