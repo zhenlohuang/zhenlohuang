@@ -4,9 +4,9 @@
 I'm [Zhenlong Huang](https://www.yidoo.xyz/about/), passionate about the fields of Data and AI, with over 10 years of experience.
 
 Keep writing and publishing articles about technical writing, self-improvement, investing and etc. in Chinese:
-- Blog: [异度部落格](https://www.yidoo.xyz/)
-- 微信公众号: [异度部落格 (yidooxyz)](https://github.com/zhenlohuang/zhenlohuang/blob/main/qrcode_for_yidooxyz.jpg?raw=true)
-- 知乎专栏: [核动力蜗牛](https://www.zhihu.com/people/kevinxhuang/posts)
+- Blog: [https://www.yidoo.xyz](https://www.yidoo.xyz)
+- Weixin Office Account: 异度部落格([qrcode](https://github.com/zhenlohuang/zhenlohuang/blob/main/qrcode_for_yidooxyz.jpg?raw=true))
+- Zhihu: [核动力蜗牛](https://www.zhihu.com/people/kevinxhuang/posts)
 
 <p align="center">
 	<a href="https://github.com/zhenlohuang">
