@@ -17,6 +17,10 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 	</a>
 </p>
 
+## Current Projects
+
+- [VibeMate](https://github.com/zhenlohuang/vibemate): a local CLI companion for coding agents, with OAuth login, usage tracking, and a unified model router.
+
 ## 🤝 Connect with me
 
 [![Blog](https://img.shields.io/badge/Blog-777BB3?logo=hexo&logoColor=white&style=for-the-badge)](http://www.yidoo.xyz/)
