@@ -19,7 +19,7 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 
 ## Current Projects
 
-- **[Mindbox](https://github.com/zhenlohuang/mindbox)**: an agentic platform for automated model fine-tuning workflows.
+- **[Mindbox](https://github.com/zhenlohuang/mindbox)**: Agentic platform for automated model fine-tuning, built in Rust. Supports end-to-end workflows from data exploration to model training and deployment via natural language.
 - **[VibeMate](https://github.com/zhenlohuang/vibemate)**: a local CLI companion for coding agents, with OAuth login, usage tracking, and a unified model router.
 
 ## 🤝 Connect with me
