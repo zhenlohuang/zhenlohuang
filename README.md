@@ -19,7 +19,8 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 
 ## Current Projects
 
-- [VibeMate](https://github.com/zhenlohuang/vibemate): a local CLI companion for coding agents, with OAuth login, usage tracking, and a unified model router.
+- **[Mindbox](https://github.com/zhenlohuang/mindbox)**: an agentic platform for automated model fine-tuning workflows.
+- **[VibeMate](https://github.com/zhenlohuang/vibemate)**: a local CLI companion for coding agents, with OAuth login, usage tracking, and a unified model router.
 
 ## 🤝 Connect with me
 
