@@ -21,6 +21,7 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 
 - **[Mindbox](https://github.com/zhenlohuang/mindbox)**: Agentic platform for automated model fine-tuning, built in Rust. Supports end-to-end workflows from data exploration to model training and deployment via natural language.
 - **[VibeMate](https://github.com/zhenlohuang/vibemate)**: a local CLI companion for coding agents, with OAuth login, usage tracking, and a unified model router.
+- **[Ethereum Trading MCP Server](https://github.com/zhenlohuang/ethereum-trading-mcp)**: A Model Context Protocol (MCP) server built in Rust that enables AI agents to query blockchain data and simulate token swaps on Ethereum.
 
 ## 🤝 Connect with me
 
