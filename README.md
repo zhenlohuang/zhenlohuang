@@ -17,7 +17,7 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 	</a>
 </p>
 
-## Current Projects
+## Featured Projects
 
 - **[VisionQL](https://github.com/zhenlohuang/visionql)**: A data engine for Physical AI, built in Rust. Query images, recorded video, and live camera streams with SQL, combining media decoding, model inference, and relational processing in one engine.
 - **[Axisml](https://github.com/AxisML/axisml)**: AxisML is a Kubernetes-native machine learning platform that unifies distributed training, elastic inference, multi-tenant GPU scheduling, and artifact management across the full ML lifecycle.
