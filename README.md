@@ -19,6 +19,7 @@ Keep writing and publishing articles about technical writing, self-improvement, 
 
 ## Current Projects
 
+- **[VisionQL](https://github.com/zhenlohuang/visionql)**: A data engine for Physical AI, built in Rust. Query images, recorded video, and live camera streams with SQL, combining media decoding, model inference, and relational processing in one engine.
 - **[Axisml](https://github.com/AxisML/axisml)**: AxisML is a Kubernetes-native machine learning platform that unifies distributed training, elastic inference, multi-tenant GPU scheduling, and artifact management across the full ML lifecycle.
 - **[Mindbox](https://github.com/zhenlohuang/mindbox)**: Agentic platform for automated model fine-tuning, built in Rust. Supports end-to-end workflows from data exploration to model training and deployment via natural language.
 - **[VibeMate](https://github.com/zhenlohuang/vibemate)**: a local CLI companion for coding agents, with OAuth login, usage tracking, and a unified model router.
